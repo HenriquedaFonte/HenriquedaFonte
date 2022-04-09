@@ -6,15 +6,13 @@
 
 
 ## about me
-⚖️ law clerk at TJCE
-<br/>🎓 graduated in 2015 from Law School at UFC
+🎓 business administrator graduated in 2008
 <br/>🔭 changing carrer paths
 <br/>👨‍🚀 currently coursing explorer <a href="https://github.com/Rocketseat" target="_blank">@rocketseat</a>
 <br/>🌱 studying **Web development** 💻
 <br/>💡 interested to know more about computer science
-<br/>📔 I usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a>
-<br/>🦜 English level: advanced (C1)
-<br/>🎵 indie, alternative rock, lo-fi
+<br/>🏅 Karting, tennis
+<br/>🎵 heavy metal, rock, regae
 
 
 
