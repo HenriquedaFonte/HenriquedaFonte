@@ -16,9 +16,10 @@
 <br/>🏅 Karting, tennis
 <br/>🎵 heavy metal, rock, regae
 
+<div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriquedaFonte&count_private=true&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquedaFonte&layout=compact&langs_count=16&theme=dark"
-
+</div>
 
 ## tech stacks (learning)
 <div style="display: inline_block"><br>
