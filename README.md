@@ -16,10 +16,13 @@
 <br/>🏅 Karting, tennis
 <br/>🎵 heavy metal, rock, regae
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriquedaFonte&count_private=true&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquedaFonte&layout=compact&langs_count=16&theme=dark"
+
+<div align="center">
+  <a href="https://github.com/gabriel-williams">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriquedaFonte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquedaFonte&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 ## tech stacks (learning)
 <div style="display: inline_block"><br>
