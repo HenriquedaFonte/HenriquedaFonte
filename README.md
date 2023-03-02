@@ -8,9 +8,12 @@
 
 
 ## about me
+
+Junior Web developer with experience in HTML, CSS, JavaScript, Typescript, React, and Node.js. Recent graduate with a background in logistics, seeking to transition into a career in web development. Strong problem-solving skills and a passion for creating dynamic, user-friendly websites. Excited to continue learning and growing in the tech industry.
+
+
 🎓 business administrator graduated in 2008
 <br/>🔭 changing carrer paths
-<br/>👨‍🚀 currently coursing explorer <a href="https://github.com/Rocketseat" target="_blank">@rocketseat</a>
 <br/>🌱 studying **Web development** 💻
 <br/>💡 interested to know more about computer science
 <br/>🏅 Karting, tennis
