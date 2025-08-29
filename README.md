@@ -2,9 +2,11 @@
 <div style="font.size:20px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="13px"><strong>&nbsp;&nbsp;&nbsp;hello, world!</strong>
 <br/><img width="20px" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png"/><strong>&nbsp;&nbsp;&nbsp;WebDev </strong></div>
 
-<br/><a href="https://discordapp.com/users/754165533313597500" target="_blank"><img src="https://img.shields.io/badge/HenriquedaFonte5898-05122A?style=flat&logo=discord" height="25"></a>&nbsp;<a href="https://www.linkedin.com/in/henrique-da-fonte-6b5615b3/" target="_blank"><img src="https://img.shields.io/badge/-Henrique-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Henrique da Fonte-" height="25"></a>&nbsp;<a target="_blank" href="mailto:henriquegdafonte@gmail.com">
-  <img align="left" alt="Gmail" width="80px" height="25" src="https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000" />
+<br/>
+<div margin="auto" align="left" ><a href="https://discordapp.com/users/754165533313597500" target="_blank"><img src="https://img.shields.io/badge/HenriquedaFonte5898-05122A?style=flat&logo=discord" height="50"></a>&nbsp;<a href="https://www.linkedin.com/in/henrique-da-fonte-6b5615b3/" target="_blank"><img src="https://img.shields.io/badge/-Henrique-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Henrique da Fonte-" height="50"></a>&nbsp;<a target="_blank" href="mailto:henriquegdafonte@gmail.com">
+  <img justify="center" alt="Gmail" width="40px" height="40px" src="https://img.icons8.com/?size=100&id=UVMl6gMRl2Sq&format=png&color=000000" />
 </a>
+</div>
 
 
 ## about me
